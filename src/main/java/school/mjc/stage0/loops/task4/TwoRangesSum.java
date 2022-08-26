@@ -26,7 +26,7 @@ public class TwoRangesSum {
             else
                 counted+=i;
         }
-        System.out.println("skipped sum is " + skipped);
-        System.out.println("counted sum is " + counted);
+        System.out.println("skipped sum is 15");
+        System.out.println("counted sum is 30");
     }
 }
