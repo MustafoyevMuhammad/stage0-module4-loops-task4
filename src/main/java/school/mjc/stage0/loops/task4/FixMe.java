@@ -6,10 +6,10 @@ public class FixMe {
             if (i % 2 == 0) {
                 System.out.println(i);
             } else if (i == 7) {
-                System.out.print("last ");
-                System.out.println("will I be printed?");
+                System.out.println("last");
                 break;
             }
         }
+        System.out.println("will I be printed?");
     }
 }
